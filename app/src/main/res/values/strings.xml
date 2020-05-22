@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Zadanie_5</string>
+    <string name="tab_text_1">Фотографии по выбранной породе кошки</string>
+    <string name="tab_text_2">Понравившихся фоток и видео на данный момент не имеется</string>
+    <string name="last_like">Список понравившихся фотографий и видео</string>
+    <string name="breeds">Породы кошек</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
